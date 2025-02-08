@@ -2,7 +2,7 @@
 this project is portfolio page created using HTML.
 
 # Features✨
-clean and responcive lauout by portfolio page
+clean and responcive layout by portfolio page
 full customizable HTML structure
 
 # Demo 🎥
